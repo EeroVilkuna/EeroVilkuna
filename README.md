@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @EeroVilkuna
-- 👀 I’m interested in cloud
-- 🌱 I’m currently learning everything that I am keen into
-- 📫 How to reach me https://www.linkedin.com/in/eeroilmarivilkuna/
+Oh, they have the internet on computers now!
